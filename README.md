@@ -1,4 +1,4 @@
-#  IDS-Random-Forest: Avaliação Cross-Dataset e Análise de Concept Drift
+#  IDS-Random-Forest: Avaliação Cross-Dataset
 
 > Repositório direcionado para o armazenamento do algoritmo desenvolvido para a análise de Sistemas de Detecção de Intrusão (IDS) durante o projeto de Iniciação Científica.
 
